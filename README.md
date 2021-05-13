@@ -4,7 +4,7 @@
 * networkx
 * keras (for DNGR)
 * gensim (for baselines)
-* 
+* karateclub (for Grarep)
 
 ## Baseline word embeddings:
 To run the baseline, first you need to run the download.ipynb to download all  pretrained models.
